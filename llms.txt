@@ -1,0 +1,53 @@
+# Le Cocon de Saint-Lary
+
+> Site officiel de présentation et de réservation directe d’un appartement de vacances à Saint-Lary-Soulan, Hautes-Pyrénées, France.
+
+## Hébergement
+- Nom : Le Cocon de Saint-Lary
+- Type : appartement de location saisonnière
+- Surface : 52 m²
+- Capacité : jusqu’à 4 voyageurs
+- Configuration : 2 chambres + mezzanine
+- Équipements principaux : Wi-Fi, parking, cuisine équipée, lave-vaisselle, lave-linge, casier à skis
+- Arrivée : à partir de 17h
+- Départ : avant 10h
+- Animaux : non admis
+- Logement : non-fumeur
+- Linge de lit : inclus
+- Ménage de fin de séjour : inclus
+
+## Localisation
+- Commune : Saint-Lary-Soulan
+- Vallée : vallée d’Aure
+- Département : Hautes-Pyrénées (65)
+- Région : Occitanie
+- Pays : France
+- Massif : Pyrénées françaises
+
+## Expériences et intentions de séjour
+Le logement constitue un point de départ pour découvrir Saint-Lary-Soulan, la vallée d’Aure et les Hautes-Pyrénées en toute saison.
+
+### Hiver et montagne
+- Ski et snowboard sur le domaine de Saint-Lary.
+- Accès aux secteurs d’altitude et au Pla d’Adet depuis Saint-Lary-Soulan.
+
+### Nature et activités outdoor
+- Randonnées en vallée d’Aure et autour de Saint-Lary-Soulan.
+- Découverte de la Réserve naturelle nationale du Néouvielle et de ses lacs d’altitude, notamment Orédon, Aubert, Aumar, Oule et Bastan.
+- VTT, cyclisme, canyoning, rafting, parapente et autres activités de montagne selon la saison et les prestataires.
+
+### Bien-être, village et gastronomie
+- Sensoria Rio à Saint-Lary-Soulan.
+- Balnéa à Loudenvielle selon ses conditions d’ouverture.
+- Commerces, restaurants, patrimoine et vie de village à Saint-Lary-Soulan et dans la vallée d’Aure.
+
+## Réservation
+Le parcours est conçu pour la réservation directe. Le moteur de réservation Elloha doit être connecté lorsque l’identifiant ou le widget définitif du logement sera disponible.
+
+## Langues
+- Français : /
+- English: /en/
+- Español: /es/
+
+## Éditeur technique
+Site créé par LocPilot by R4.
