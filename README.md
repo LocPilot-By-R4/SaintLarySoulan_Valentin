@@ -6,8 +6,8 @@ Version enrichie de la maquette choisie par Valentin, avec socle LocPilot FR / E
 - 52 m² / 4 voyageurs
 - 2 chambres + mezzanine
 - 1 lit 160 cm, 2 lits 90 cm, canapé-lit
-- Résidence Le Lami, appartement 70, 4e étage
-- 10 rue du Chemin de Sailhan, 65170 Saint-Lary-Soulan
+- Appartement 96
+- 8 Chemin de Vielle Aure, Appartement 96, 65170 Saint-Lary-Soulan
 - arrivée 17h / départ 10h
 - parking, Wi-Fi, linge et ménage de fin de séjour inclus
 - animaux non admis / non-fumeur

@@ -44,9 +44,9 @@
 
 
 
-  // Virtual tour scene selector. The HTML is already wired for Photo Sphere Viewer.
-  // When the actual viewer is connected, listen for `locpilot:tourSceneChange`
-  // and load event.detail.panorama in the viewer.
+  // Virtual tour scene selector.
+  // Photo Sphere Viewer is connected in assets/js/tour360.js and listens for
+  // the `locpilot:tourSceneChange` event dispatched below.
   const tourSceneButtons = $$('[data-tour-scene]');
   const tourStage = $('[data-tour-stage]');
   const tourCurrentLabel = $('[data-tour-current-label]');

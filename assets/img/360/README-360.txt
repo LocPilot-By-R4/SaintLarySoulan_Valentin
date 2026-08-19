@@ -1,26 +1,21 @@
-LOCPILOT — Préparation visite virtuelle 360°
+LE COCON DE SAINT-LARY — VISITE VIRTUELLE 360°
+Version V13
 
-Miniatures prêtes dans assets/img/360/thumbs/ :
-- sejour-cuisine-thumb.webp
-- chambre-1-thumb.webp
-- chambre-2-thumb.webp
-- mezzanine-thumb.webp
+Panoramas retenus et intégrés :
+1. 01-sejour-vue-ensemble.webp — Séjour / vue principale
+2. 02-cuisine.webp — Cuisine
+3. 03-mezzanine.webp — Mezzanine / étage
+4. 04-couchage.webp — Espace couchage
+5. 05-salle-de-bain.webp — Salle de bain
 
-Panoramas attendus dans assets/img/360/ :
-- sejour-cuisine-360.webp
-- chambre-1-360.webp
-- chambre-2-360.webp
-- mezzanine-360.webp
+La vue « Entrée & séjour » a été retirée car elle faisait doublon avec la vue principale du séjour.
 
-Les miniatures actuelles sont des placeholders basés sur preview.webp.
-Il suffit de les remplacer en conservant les mêmes noms.
+Les panoramas sont stockés dans :
+assets/img/360/panos/
 
-Chaque bouton de miniature possède :
-- data-tour-scene
-- data-panorama
-- data-thumb
-- data-label
+Les miniatures optimisées sont stockées dans :
+assets/img/360/thumbs/
 
-Le script assets/js/app.js émet aussi l'événement JavaScript
-"locpilot:tourSceneChange" à chaque changement de scène.
-Cela permettra de brancher Photo Sphere Viewer sans modifier le HTML des pages.
+Photo Sphere Viewer est connecté via assets/js/tour360.js.
+Les versions FR / EN / ES utilisent les mêmes cinq panoramas avec des libellés localisés.
+La scène d’ouverture reste 01-sejour-vue-ensemble.webp.
